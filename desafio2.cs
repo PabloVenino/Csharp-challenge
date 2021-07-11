@@ -54,7 +54,7 @@ class Desafio2{
         
         int n=0;
         quantidade:
-        Console.WriteLine("Quantas vezes quer repetir cada caractere da letra? [maximo 5 vezes]");
+        Console.WriteLine("Quantas vezes quer repetir cada caractere da palavra? [maximo 5 vezes]");
         n=Convert.ToInt32(Console.ReadLine());
         if (n>5){
             Console.WriteLine("Você ultrapassou o máximo de caracteres!!");

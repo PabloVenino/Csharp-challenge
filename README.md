@@ -9,7 +9,9 @@
 
 It don't have a english version yet, how knows, in the future, it'll be able...
 
-#### Portuguese Version 🇧🇷
+<hr/>
+
+#### Versão em Português 🇧🇷
 # Desafio em C#
 ### Consiste em repetir o numero de letras em N vezes.
 ## Exemplo:

@@ -103,6 +103,6 @@ class Desafio2{
         if(confirm=="s"){
             goto repeticao;
         }
-        Console.WriteLine("Obrigado por testar nosso programa! (ツ)");
+        Console.WriteLine("Obrigado por testar nosso programa!");
     }
 }

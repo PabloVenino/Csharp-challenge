@@ -76,6 +76,7 @@ class Desafio2{
         string confirm=Console.ReadLine();
 
         switch (confirm){
+            case "s":
             case "sim":
             case "S":
             case "SIM":
@@ -84,6 +85,7 @@ class Desafio2{
             case "SI":
                 confirm="s";
                 break;
+            case "n":
             case "N":
             case "não":
             case "nao":
